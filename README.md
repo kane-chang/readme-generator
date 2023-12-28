@@ -30,6 +30,9 @@
   ```bash
   npm test
   ```
+
+  Walkthrough Video:
+  [![Walkthrough Video](https://i.gyazo.com/6206af6539da12ca7177ce8f0d3999a7.png)](https://drive.google.com/file/d/1A3u9BRBAEcPLeBBVWLdGxrRVvIsRtG6b/view?usp=sharing)
   
   ## Contributing
   
